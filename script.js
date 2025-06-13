@@ -77,5 +77,5 @@ function updateBackground(condition) {
     drizzle: "rain.jpg",
   };
   const file = backgrounds[condition.toLowerCase()] || "default.jpg";
-  body.style.backgroundImage = `url('images/${file}')`;
+  body.style.backgroundImage = `url('background images/${file}')`;
 }
