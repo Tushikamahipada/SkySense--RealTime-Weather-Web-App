@@ -3,6 +3,12 @@ Weatherly is a sleek, responsive weather application that fetches real-time weat
 
 ---
 
+## 🔗 Live Demo
+
+👉 [Weatherly Live Site](https://tushikamahipada.github.io/Weatherly/)
+
+---
+
 ## Features
 
 - 🔍 **Search by City Name** – Quickly get the weather for any city worldwide  
