@@ -1,12 +1,12 @@
-## SkySense - RealTime Weather WebApp
+## WeatherCast - RealTime Weather Forecast WebApp
 
-SkySense is a sleek, responsive weather application that fetches real-time weather data and dynamically updates the background image based on the weather condition. It’s powered by the OpenWeatherMap API and built with pure HTML, CSS, and JavaScript.
+WeatherCast is a sleek, responsive weather application that fetches real-time weather data and dynamically updates the background image based on the weather condition. It’s powered by the OpenWeatherMap API and built with pure HTML, CSS, and JavaScript.
 
 ---
 
 ## 🔗 Live Demo
 
-👉 [SkySense Live Site](https://tushikamahipada.github.io/Weatherly/)
+👉 [WeatherCast Live Site](https://tushikamahipada.github.io/Weatherly/)
 
 ---
 
@@ -34,12 +34,12 @@ SkySense is a sleek, responsive weather application that fetches real-time weath
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/SkySense--RealTime-Weather-Web-App.git
+   git clone https://github.com/yourusername/WeatherCast.git
 
 2. Navigate to the project directory:
 
    ```bash
-   cd SkySense--RealTime-Weather-Web-App
+   cd WeatherCast
    
 4. Open index.html in your browser.
 
@@ -63,6 +63,6 @@ SkySense is a sleek, responsive weather application that fetches real-time weath
 
 ---
 
-Have suggestions, found a bug, or want to improve SkySense?
+Have suggestions, found a bug, or want to improve WeatherCast?
 
 💬 Feel free to open an issue or submit a pull request.
