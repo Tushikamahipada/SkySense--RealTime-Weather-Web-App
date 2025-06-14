@@ -1,11 +1,12 @@
-## Weatherly
-Weatherly is a sleek, responsive weather application that fetches real-time weather data and dynamically updates the background image based on the weather condition. It’s powered by the OpenWeatherMap API and built with pure HTML, CSS, and JavaScript.
+## SkySense - RealTime Weather WebApp
+
+SkySense is a sleek, responsive weather application that fetches real-time weather data and dynamically updates the background image based on the weather condition. It’s powered by the OpenWeatherMap API and built with pure HTML, CSS, and JavaScript.
 
 ---
 
 ## 🔗 Live Demo
 
-👉 [Weatherly Live Site](https://tushikamahipada.github.io/Weatherly/)
+👉 [SkySense Live Site](https://tushikamahipada.github.io/Weatherly/)
 
 ---
 
@@ -33,12 +34,12 @@ Weatherly is a sleek, responsive weather application that fetches real-time weat
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/Check-the-weather.git
+   git clone https://github.com/yourusername/SkySense--RealTime-Weather-Web-App.git
 
 2. Navigate to the project directory:
 
    ```bash
-   cd Check-the-weather
+   cd SkySense--RealTime-Weather-Web-App
    
 4. Open index.html in your browser.
 
@@ -62,6 +63,6 @@ Weatherly is a sleek, responsive weather application that fetches real-time weat
 
 ---
 
-Have suggestions, found a bug, or want to improve Weatherly?
+Have suggestions, found a bug, or want to improve SkySense?
 
 💬 Feel free to open an issue or submit a pull request.
