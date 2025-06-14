@@ -6,7 +6,7 @@ WeatherCast is a sleek, responsive weather application that fetches real-time we
 
 ## 🔗 Live Demo
 
-👉 [WeatherCast Live Site](https://tushikamahipada.github.io/Weatherly/)
+👉 [WeatherCast Live Site](https://tushikamahipada.github.io/WeatherCast/)
 
 ---
 
